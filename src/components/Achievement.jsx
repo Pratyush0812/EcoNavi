@@ -6,14 +6,14 @@ import {SlPeople} from 'react-icons/sl'
 
 const Achievement = () => {
   return (
-    <div className='w-full bg-[#e9f8f3] py-24'>
+    <div className='w-full bg-[#e9f8f3] py-14 px-6'>
         <div className='md:max-w-[1480px] m-auto grid md:grid-cols-2 max-w-[600px]  px-4 md:px-0'>
             
             <div className='flex flex-col justify-center '>
                 <h1 className='md:leading-[72px] text-3xl font-bold text-center'>Our <span className='text-[#20B486]'>Achievements</span></h1>
-                <p className='text-lg text-gray-600 mx-3'>Various versions have evolved over the years, sometimes by accident.</p>
+                <p className='text-lg text-gray-600 mx-10'>We have taken a few steps ahead. Rest let's take together.</p>
                 
-                <div className='grid grid-cols-2 py-16'>
+                <div className='grid grid-cols-2 py-16 px-4'>
                     <div className='py-6 flex'>
                         <div className='p-4 bg-[#E9F8F3] rounded-xl'>
                             <SlGraduation 
@@ -71,7 +71,7 @@ const Achievement = () => {
            </div>
             
              
-             <img  src={achievement} className="m-auto md:order-last  order-first" />
+             <img  src={achievement} className="m-auto md:order-last  order-first w-3/5 h-9/10" />
 
 
 
