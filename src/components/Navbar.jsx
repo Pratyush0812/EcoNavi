@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='w-full h-[80px] bg-[#e9f8f3] border-b border-r-4'>
         <div className='md:max-w-[1480px] max-w-[600px] m-auto w-full h-full flex justify-between items-center md:px-0 px-4'>
             
-            <img src={logo} className="h-[150px]" />
+            <img src={logo} className="h-[150px] py-2" />
             
             <div className='hidden md:flex items-center '>
                 <ul className='flex gap-7 font-bold'>

@@ -7,6 +7,7 @@ import companyLogo1 from "./company-logo-1.png";
 import companyLogo2 from "./company-logo-2.png";
 import companyLogo3 from "./company-logo-3.png";
 import companyLogo4 from "./company-logo-4.png";
+import companyLogo5 from "./company-logo-5.png";
 import blogImg1 from "./blog-1.png";
 import achievement from "./achievement.png";
 import avatar from "./avatar.png";
@@ -23,6 +24,7 @@ export {
   companyLogo2,
   companyLogo3,
   companyLogo4,
+  companyLogo5,
   blogImg1,
   achievement,
   avatar,
